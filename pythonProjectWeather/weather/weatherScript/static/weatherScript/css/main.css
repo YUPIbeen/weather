@@ -1,0 +1,45 @@
+.info {
+    position: relative;
+    top: -80px;
+    width: 50%;
+    margin-left: 560px;
+
+
+}
+.weather {
+    width: 50%;
+    margin-top: 50px;
+    margin-left: 50px;
+
+}
+
+form {
+    margin-left: 50px;
+    width: 55px;
+    position: relative;
+    top: -35px;
+
+}
+
+input[type=submit] {
+    background: red;
+    color: #fff;
+    border-radius: 5px;
+}
+
+.alert-primary {
+    width: 20%;
+    height: 85px;
+
+    text-align: center;
+    margin-left: 540px;
+    position: relative;
+    top: -100px;
+
+}
+img {
+    margin-left: 170px;
+    position: relative;
+    top: -40px;
+
+}
